@@ -1,0 +1,10 @@
+NOTE: all files and folders are in use. Please don't delete any file.
+
+WORK: the work of folder "mouse_final_proj_copy_for_trial_1" is generate the random images and then find emotion.
+
+step0: you have to set input in "input.txt". There should be two column fisrt for slide number and second for number of images in one slide. Row number represent slide number.
+step1: Run file "prefinal.py" 2 new terminal will be open. 
+step2: give input 0 or 1 in second terminal and then after write "prag.pyw" in third terminal.
+step3: open images and start giving emotions on screen according to images (start from key 'S' and end it by 'Q').
+step4: close all terminal from third to first. Run the file "postfinal.py".
+step5: See your final emotion output in "final_emo_out.txt".   
